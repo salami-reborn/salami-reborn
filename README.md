@@ -1,16 +1,47 @@
-## Hi there 👋
+<h6>Copy pasted from my old acc.</h6>
 
-<!--
-**salami-reborn/salami-reborn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</br>
+<div align="center"> 
+  <p1>------ SKILLS ------</p1>
+</div>
+<br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=robloxstudio,kali,linux,c,cpp,html,js,nodejs" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=blender,bash,discord,vscode,git,raspberrypi,powershell" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=lua,py,windows,vercel,discordjs" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=replit,ros,ubuntu,visualstudio" />
+    
+    
+  </a>
+</p>
+<br>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center"> 
+  <p1>------ STILL LEARNING ------</p1>
+</div>
+<br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,ruby,bun,bsd,bootstrap,aws,arduino,css" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=gcp,kubernetes,cloudflare,elixir,flask,pytorch" />
+  </a>
+</p>
+</br><br>
+
+<div align="center"> 
+  <p1>------ WANT TO LEARN ------</p1>
+</div>
+<br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arch,kotlin,mysql,obsidian,php,prisma" />
+  </a>
+</p>
+</br>
